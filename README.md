@@ -78,10 +78,9 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/aathif-ahamed-645368311/"/></a>
+<a href="mailto:your-email@example.com"><img src="aathifahamed39@gmail.com"/></a>
 <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=vercel"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://skillicons.dev/icons?i=twitter"/></a>
 
 </div>
 
